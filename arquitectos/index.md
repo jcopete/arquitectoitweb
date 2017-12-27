@@ -8,8 +8,6 @@ image:
 ---
 
 <div class="cards">
-
-
 {% for item in site.data.authors %}
 
   <a href="/arquitecto/{{ item[0] | slugify }}">
