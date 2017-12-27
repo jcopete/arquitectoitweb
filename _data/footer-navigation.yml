@@ -1,0 +1,22 @@
+# Footer navigation links
+
+- title: Acerca de
+  url: /acerca-de/
+
+- title: Arquitectos
+  url: /arquitectos/
+
+- title: Colaborar
+  url: /colaborar/
+
+- title: Contactar
+  url: /contactar/
+
+- title: Lista de Correo
+  url: /lista-correo/
+
+- title: Categorias
+  url: /categorias/
+
+- title: Buscar
+  url: /search/

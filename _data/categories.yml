@@ -1,0 +1,36 @@
+# Category Descriptions
+
+- title: cloud
+  name: Cloud Computing
+  image: covers/cloudcomputing.png
+  description: "Análisis de las plataformas de cloud-computing que existen, así como de las capacidades que estas nos ofrecen."
+
+- title: devops
+  name: DevOps
+  image: covers/devops.png
+  description: "Artículos sobre las posibilidades que el mundo de la Integración Continua (CI) y el Despliegue Continuo (CD) nos proporcionan."
+
+- title: editorial
+  name: Editorial
+  image: covers/editorial.png
+  description: "Revisión sobre temas de tecnología aplicada a las empresas desde un punto de vista crítico y de mejora."
+
+- title: microservicios
+  name: Microservicios
+  image: covers/microservicios.png
+  description: "Análisis sobre cómo utilizar el enfoque de microservicios para el desarrollo de aplicaciones, así como los nuevos retos que nos plantea."
+
+- title: api-management
+  name: API Management
+  image: covers/api.png
+  description: "Artículos sobre los productos de API Management, así como de los estándares y buenas prácticas del mundo API Economy."
+
+- title: front
+  name: Front Development
+  image: covers/front.jpg
+  description: "Artículos sobre los frameworks de desarrollo de aplicaciones front, técnicas de accesibilidad y uso de los navegadores web."
+
+- title: java
+  name: Java
+  image: covers/java.png
+  description: "Revisión de todas las capacidades que la plataforma Java y frameworks como Spring nos ofrece en el desarrollo de aplicaciones."

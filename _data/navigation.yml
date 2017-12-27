@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: Editorial
+  url: /editorial/
+
+- title: DevOps
+  url: /devops/
+
+- title: Cloud
+  url: /cloud/
+
+- title: API Management
+  url: /api-management/
+
+- title: Microservicios
+  url: /microservicios/
+
+- title: Otros
+  url: /categorias/
