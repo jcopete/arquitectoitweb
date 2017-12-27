@@ -1,5 +1,6 @@
 ---
 title: Arquitectos
+excerpt: "Arquitectos que escriben en Arquitecto IT."
 layout: page
 permalink: /arquitectos/
 image:
