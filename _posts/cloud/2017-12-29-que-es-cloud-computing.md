@@ -10,11 +10,30 @@ comments: true
 share: true
 author: victor_cuervo
 ---
-Uno de los pilares sobre los que se vertebra la transformación digital en las empresas es el **cloud computing**, pero realmente, qué significa esto del **cloud computing** y por qué es tan importante a día de hoy.
+Uno de los pilares sobre los que se vertebra la **transformación digital en las empresas** es el **cloud computing**, pero realmente, qué significa esto del **cloud computing** y por qué es tan importante a día de hoy.
 
-El **cloud computing** es la capacidad de realizar ejecuciones computacionales sobre elementos que son virtuales. Es decir, no tener que disponer de un elemento físico para poder ejecutar nuestro código o programa.
+El **cloud computing** es la capacidad de realizar ejecuciones computacionales sobre elementos que son virtuales. Es decir, no tener que disponer de un elemento físico para poder ejecutar nuestro código o programa. Es lo que se viene a llamar **computación en la nube**, ya que realmente no sabemos dónde están ubicadas las máquinas.
 
-**computación en la nube**
+Pero la mejor forma de entender el **cloud comuting** es revisar la historia de cómo se han configurado los CPDs de las empresas, qué problemas se han encontrado y hacía dónde han evolucionado los sistemas.
+
+# Modelo tradicional o legacy
+Cuando hablamos de un **modelo tradicional o legacy** nos referimos a aquel modelo en el cual para poder montar un CPD disponemos de un espacio físico, el cual acondicionamos y dotamos de capacidades electricas. Una vez que disponemos de esto empezamos a aprovisionarlo de máquinas, las cuales nos darán principalmente tres cosas: capacidad de computo, capacidad de red y capacidad de almacenamiento.
+
+Sobre estos tres elementos empezamos a definir y construir nuestro CPD hasta llegar a disponer de servicios que permitan ejecutarse a nuestras aplicaciones. Para ello instalaremos sistemas operativos, entornos de ejecución de aplicaciones hasta llegar a desplegar allí nuestras aplicaciones.
+
+## Cuales son los handicaps del modelo legacy
+Los modelos tradicionales o legacy son modelos muy válidos en entornos controlados, con un crecimiento identificado y sostenible,... pero la realidad con la que se encuentran los proyectos y las empresas hoy en día es muy distinta. Ya que hablamos de rápidos aprovisionamientos de capacidades, de picos de uso desconocidos o impredecibles en ciertas aplicaciones o una simple necesidad alta de computo.
+
+Así podriamos decir que el modelo legacy tiene los siguientes handicaps:
+
+### Tiempo de aprovisonamiento de hardware
+Los tiempos en los que se suele aprovisionar hardware (computo o almacenamiento) son altos. O por lo menos no cuadran con los tiempos impuestos a los proyectos. Además podemos encontrarnos con *proyectos que sean pruebas de concepto* a los que tengamos que dar una rápida respuesta o *proyectos de alta complejidad* en los cuales se tarde en definir una forma correcta el entorno a disponibilizar.
+
+###
+
+## Handicaps del modelo legacy
+* Tiempo en aprovisionar nuevos elementos
+* Gestión de la obsolescencia del hardware
 
 
 # Puntos fuertes del Cloud Computing o PQ irse a la nube
@@ -58,9 +77,7 @@ Los modelos legacy pasaron a sistemas de virtualización para poder optimizar el
 
 
 
-## Handicaps del modelo legacy
-* Tiempo en aprovisionar nuevos elementos
-* Gestión de la obsolescencia del hardware
+
 
 
 
@@ -84,30 +101,3 @@ Dudas
 
 * ¿Costes ocultos del cloud computing?
 * Beneficios para las empresas del cloud???
-
-
-# Cloud Pública, Cloud Privada y Cloud Híbrida
-
-* Cloud Público, es aquel que es compartido por varios usuarios. No se conoce la ubicación de los servidores.
-
-* **Cloud Privado**, es aquel del que se tiene un uso exclusivo para nuestras aplicaciones. En algunos casos se es consciente de la ubicación física de las máquinas. ¿No tiene punto de acceso público?
-
-* Cloud Híbrida, es aquella que se aprovecha de los dos modelos de cloud. Por un lado se tiene capacidad de computo en la parte privada, pero se aprovecha de las capacidades de crecimiento de la cloud pública o se ofrecen ciertos servicios en la cloud publica.
-
-Los modelos de cloud híbrida suelen aprovecharse del uso de varios cloud públicos, aprovechando los mejores servicios ofrecidos por cada uno de ellos.
-
-
-# Características del Cloud Computing
-
-## Autoservicio
-Los recursos de computación pueden aprovisonarse de forma automática bajo demanda. Es decir, en el momento que necesitamos algo, esto se puede aprovisionar.
-
-Imagina, que necesitas más espacio de almacenamiento, de forma automática indicas que necesitas más espacio y se tiene en el momento.
-
-## Elasticidad
-Los recursos podrán crecer o decrecer de forma automática. Es decir, solo consumimos aquellos que necesitamos. Y por ende, se factura por aquellos servicios que se consumen. Con lo cual se puede optimizar el coste/consumo de recursos.
-
-## Capacidad de Medición
-Al ser un modelo bajo consumo y elástico un modelo de cloud computing debe de poder ser medido. De esta forma deberemos de saber cuántos recursos, bajo que circustancias y durante cuanto tiempo estamos consumiendo dentro del cloud.
-
-Estas mediciones nos servirán a la hora de tarificar los costes del servicio de cloud computing. Llegando al modelo de **pago por uso**.
