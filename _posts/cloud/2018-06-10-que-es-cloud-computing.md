@@ -22,10 +22,10 @@ Esta gestión de recursos hace que aparezca el concepto **“consumo como servic
 De esta manera el modelo de servicios del **Cloud Computing**  habla, principalmente de tres tipos:
 
 ## IaaS: Infraestructure as a Service.
-Sería la infraestructura como servicio. Es decir, los niveles más bajos. De forma dinámica podemos disponer de nuevas redes, sistemas de almacenamiento o servidores. En este tipo de sistemas de Cloud Computing tenemos servicios como el que nos ofrece Amazon Web Services (AWS), Microsoft Azure,...
+Sería la infraestructura como servicio. Es decir, los niveles más bajos. De forma dinámica podemos disponer de nuevas redes, sistemas de almacenamiento o servidores. En este tipo de sistemas de Cloud Computing tenemos servicios como el que nos ofrece _Amazon Web Services (AWS)_, _Microsoft Azure_,...
 
 ## PaaS: Platform as a Service
-En este caso hablamos de la plataforma como servicio. Los que nos ofrecen estos modelos de cloud computing son plataformas para desarrollar aplicaciones, es decir, disponemos configurado hasta la capa de sistema operativo, solo teniendo que preocuparnos de los datos y aplicaciones. Algunos ejemplos de PaaS serían Google App Engine, Red Hat OpenShift,...
+En este caso hablamos de la plataforma como servicio. Los que nos ofrecen estos modelos de cloud computing son plataformas para desarrollar aplicaciones, es decir, disponemos configurado hasta la capa de sistema operativo, solo teniendo que preocuparnos de los datos y aplicaciones. Algunos ejemplos de PaaS serían _Google App Engine_, _Red Hat OpenShift_,...
 
 ## SaaS: Software as a Service
 Este es el modelo de cloud computing más cercano a los usuarios finales, ya que es el software como servicio. Es decir, se ofrece una funcionalidad de negocio como servicio. En este tipo tenemos algunos casos como _Gmail_ para la gestión de correos electrónicos, _Dropbox_ para el almacenamiento de ficheros en la nube, _Office 365_ como suite ofimatica en la nube,...
@@ -34,4 +34,4 @@ Este es el modelo de cloud computing más cercano a los usuarios finales, ya que
 
 En este nuevo escenario de gestión de activos como servicios y agilidad facilita que se **modifiquen los modelos de negocio** y hace que aparezcan nuevos, ya que permite la creación de nuevas empresas, productos y modelos de negocio, las cuales pueden albergar todos sus sistemas informáticos en la nube a un bajo coste y de una forma rápida.
 
-De igual manar las empresas tradicionales ven un impacto en su modelo de gestión tanto presupuestario como de activos, ya que se pasa de modelos tradicionales de inversión en equipos y CPDs a un modelo de gestión de la tecnología de una empresa en un modelo por servicios. Lo que hace que en lo referente al modelo presupuestario se cambie de un modelo Capex a un modelo Opex.
+De igual manera las empresas tradicionales ven un impacto en su modelo de gestión tanto presupuestario como de activos, ya que se pasa de modelos tradicionales de inversión en equipos y CPDs a un modelo de gestión de la tecnología de una empresa en un modelo por servicios. Lo que hace que en lo referente al modelo presupuestario se cambie de un modelo Capex a un modelo Opex.
