@@ -5,7 +5,9 @@ excerpt: "Análisis de 7 beneficios de utilizar Cloud Coputing para mejorar las 
 categories: cloud
 tags: [cloud computing, big data, disaster recovery, seguridad, PoC, shadow it]
 image:
-  feature: covers/cloudcomputing.png
+  feature: covers/puente.png
+  credit: Nishat Khan
+  creditlink: https://www.flickr.com/photos/nishatkhan/
 comments: true
 share: true
 author: victor_cuervo
