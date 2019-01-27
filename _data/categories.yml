@@ -34,3 +34,8 @@
   name: Java
   image: covers/java.png
   description: "Revisión de todas las capacidades que la plataforma Java y frameworks como Spring nos ofrece en el desarrollo de aplicaciones."
+
+- title: nginx
+  name: Nginx
+  image: covers/nginx.png
+  description: "Artículos sobre Nginx que nos ayudan a sacarle un máxima productividad como balanceador de alto rendimiento, servidor web y proxy inverso."
