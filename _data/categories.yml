@@ -39,3 +39,8 @@
   name: Nginx
   image: covers/nginx.png
   description: "Artículos sobre Nginx que nos ayudan a sacarle un máxima productividad como balanceador de alto rendimiento, servidor web y proxy inverso."
+
+- title: jekyll
+  name: Jekyll
+  image: covers/write.jpg
+  description: "Artículos y ejemplos para poder manejar de forma óptima tu servidor de blogs Jekyll."
