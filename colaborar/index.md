@@ -11,7 +11,7 @@ image:
 Si quieres colaborar con [Arquitecto IT][ArquitectoIT] simplemente tienes que realizar los siguientes pasos:
 
 # 1. Trabaja con el Repositorio Git
-En [Arquitecto IT][ArquitectoIT] trabajamos con un repositorio Git que puedes encontrar en [https://github.com/arquitectoit/arquitectoit](https://github.com/arquitectoit/arquitectoit). Así lo primero que tienes que hacer es [crearte un fork de dicho respositorio][Fork].
+En [Arquitecto IT][ArquitectoIT] trabajamos con un repositorio Git que puedes encontrar en [https://github.com/arquitectoit/arquitectoitweb](https://github.com/arquitectoit/arquitectoitweb). Así lo primero que tienes que hacer es [crearte un fork de dicho respositorio][Fork].
 
 
 ## 1.1. Ubicar el Artículo
@@ -90,6 +90,6 @@ Si tienes alguna duda puedes [contactar con nosotros][contactar].
 
 [ArquitectoIT]: {{ site.url }}/acerca-de
 [Fork]: https://github.com/arquitectoit/arquitectoit#fork-destination-box
-[PullRequest]: https://github.com/arquitectoit/arquitectoit/pull/new/dev
+[PullRequest]: https://github.com/arquitectoit/arquitectoitweb/pull/new/dev
 [TinyPNG]: https://tinypng.com/
 [Contactar]: {{ site.url }}/contactar
