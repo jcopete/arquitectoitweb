@@ -1,3 +1,16 @@
+---
+layout: post
+title: ¿Qué es el API Management?
+excerpt: "Uso del framework Popcorno para poder crear diseños multimedia basados en vídeo para tu web."
+categories: front
+tags: [multimedia]
+image:
+  feature: covers/multimedia.jpg
+comments: true
+share: true
+author: victor_cuervo
+---
+
 # ¿Qué es API Management?
 
 Durante mucho tiempo las empresas han utilizado diferentes formas de compartir información entre sistemas o con empresas externas. A la sazón encontramos a lo largo del tiempo tecnología como los **webservices** o arquitectura completas como **SOA (Service Oriented Architecture)**.
