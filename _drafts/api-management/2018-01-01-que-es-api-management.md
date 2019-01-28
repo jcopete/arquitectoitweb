@@ -2,10 +2,10 @@
 layout: post
 title: ¿Qué es el API Management?
 excerpt: "Uso del framework Popcorno para poder crear diseños multimedia basados en vídeo para tu web."
-categories: front
-tags: [multimedia]
+categories: api-management
+tags: [api-management]
 image:
-  feature: covers/multimedia.jpg
+  feature: covers/api.png
 comments: true
 share: true
 author: victor_cuervo

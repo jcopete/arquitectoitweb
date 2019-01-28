@@ -1,3 +1,16 @@
+---
+layout: post
+title: ¿Qué es el API First?
+excerpt: "bla bla"
+categories: api-management
+tags: [api-management]
+image:
+  feature: covers/api.png
+comments: true
+share: true
+author: victor_cuervo
+---
+
 # ¿Qué es API First?
 
 La idea es que antes de desarrollar tu aplicación web, móvil,... que se desarrolle el API.

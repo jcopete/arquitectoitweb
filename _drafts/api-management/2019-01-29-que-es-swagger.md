@@ -1,3 +1,16 @@
+---
+layout: post
+title: ¿Qué es Swagger?
+excerpt: "bla bla"
+categories: api-management
+tags: [api-management]
+image:
+  feature: covers/api.png
+comments: true
+share: true
+author: victor_cuervo
+---
+
 # ¿Qué es Swagger?
 
 Swagger es una forma estándar de representar un API RESTful. Definir un API RESTful mediante Swagger permite tener una documentación estándar e interactiva del API y generar los SDK para los clientes de una forma muy sencilla.

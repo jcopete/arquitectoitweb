@@ -1,3 +1,16 @@
+---
+layout: post
+title: ¿Qué es el API Economy?
+excerpt: "bla bla"
+categories: api-management
+tags: [api-management]
+image:
+  feature: covers/api.png
+comments: true
+share: true
+author: victor_cuervo
+---
+
 # API Economy
 
 Las APIs permiten a los desarrolladores integrar datos de diferentes fuentes de una forma rápida y ágil construyendo nuevas y modernas aplicaciones web/mobile.

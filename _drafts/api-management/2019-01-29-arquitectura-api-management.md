@@ -1,3 +1,17 @@
+---
+layout: post
+title: Arquitectura API Management
+excerpt: "bla bla"
+categories: api-management
+tags: [api-management]
+image:
+  feature: covers/api.png
+comments: true
+share: true
+author: victor_cuervo
+---
+
+
 # Arquitectura API Management
 
 Aunque cada producto que encontramos en el mercado tiene una **arquitectura API Management** diferente, podríamos identificar, de manera conceptual, que al menos deberían de existir tres piezas:

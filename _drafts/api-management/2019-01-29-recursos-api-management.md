@@ -1,3 +1,16 @@
+---
+layout: post
+title: Recursos sobre API Management
+excerpt: "bla bla"
+categories: api-management
+tags: [api-management]
+image:
+  feature: covers/api.png
+comments: true
+share: true
+author: victor_cuervo
+---
+
 # URLs de conocimiento sobre API Management
 
 En este documento iremos recogiendo urls de conocimiento sobre **API Management** para que puedas profundizar en la lectura sobre el tema.

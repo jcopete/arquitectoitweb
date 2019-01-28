@@ -1,3 +1,16 @@
+---
+layout: post
+title: Buenas Prácticas del API Management
+excerpt: "bla bla"
+categories: api-management
+tags: [api-management]
+image:
+  feature: covers/api.png
+comments: true
+share: true
+author: victor_cuervo
+---
+
 # Buenas Prácticas de API Management
 
 Principios de Diseño de un API
