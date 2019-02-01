@@ -6,7 +6,7 @@ image:
   feature: covers/write.jpg
 ---
 
-{% assign categoria = site.data.categories | where:"title","jkyll" %}
+{% assign categoria = site.data.categories | where:"title","jekyll" %}
 {{ categoria[0].description }}
 
 <ul class="post-list">
