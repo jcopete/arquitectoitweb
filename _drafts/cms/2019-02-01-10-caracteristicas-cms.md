@@ -62,4 +62,4 @@ La seguridad es uno de los puntos importantes de los **CMS o Gestores de Conteni
 
 Y ofrecen una seguridad general enfocada a securizar todo nuestro sitio web.
 
-[QueEsCMS]: {{ site.baseurl }}{% post_url cms-2019-02-01-que-es-un-cms %}
+[QueEsCMS]: {{ site.baseurl }}{% post_url /cms/2019-02-01-que-es-un-cms %}
