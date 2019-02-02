@@ -44,3 +44,8 @@
   name: Jekyll
   image: covers/write.jpg
   description: "Artículos y ejemplos para poder manejar de forma óptima tu servidor de blogs Jekyll."
+
+- title: cms
+  name: CMS
+  image: covers/write.jpg
+  description: "Artículos sobre lo que son y cómo podemos aprovechas las capacidades de un CMS o Gestor de Contenidos."
