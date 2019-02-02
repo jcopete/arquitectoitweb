@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listado de CMS
-excerpt: "Listado que intenta recoger un listado de CMS del mercado"
+excerpt: "Listado que intenta recoger y mantener un listado actualizado de CMS del mercado, para que sirva como base de posibles selecciones."
 categories: cms
 tags: [wordpress,blogger,jekyll,question2answer,magento,prestashop,shopify,moodle,openedx,liferay,joomla,drupal]
 image:
