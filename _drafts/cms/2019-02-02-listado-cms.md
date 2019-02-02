@@ -62,7 +62,10 @@ Son [CMS o Gestores de Contenido][QueEsCMS] de multipropósito en los que dispon
 * Joomla
 * Drupal
 
+Un listado interesante de CMS lo puedes encontrar en [Headless CMS][HeadLessCMS].
+
 ¿Qué [CMS][QueEsCMS] echas de menos en el listad? Indícanoslos en los comentarios e iremos actualizando el listado.
 
 
 [QueEsCMS]: {{ site.baseurl }}{% post_url /cms/2019-02-01-que-es-un-cms %}
+[HeadLessCMS]: https://headlesscms.org/
