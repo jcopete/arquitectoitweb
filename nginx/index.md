@@ -3,7 +3,7 @@ layout: page
 title: Nginx
 excerpt: "Artículos sobre el servidor Nginx"
 image:
-  feature: covers/nginx.png
+  feature: covers/databases.png
 ---
 
 {% assign categoria = site.data.categories | where:"title","nginx" %}
