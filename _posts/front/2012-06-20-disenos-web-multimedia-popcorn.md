@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diseños Web Multimedia con Popcorn
-excerpt: "Uso del framework Popcorno para poder crear diseños multimedia basados en vídeo para tu web."
+excerpt: "Uso del framework Popcorn para poder crear diseños multimedia basados en vídeo para tu web."
 categories: front
 tags: [multimedia]
 image:
