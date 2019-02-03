@@ -23,7 +23,17 @@ Realmente la base de la transformación deben de ser las personas, pero estas de
 
 Y es que el uso de modelos de colaboración ayudarán en el proceso de transformación a:
 
-## 1. Aflorar ideas
+
+## 1. Identificar el talento
+
+Una vez más, **el talento y las personas talentosas son las base para que nuestro proceso de transformación digital llegue a buen puerto**. ¿Cómo vamos a detectar el talento en la empresa?¿Dónde se encuentra este talento?
+
+La mejor forma de demostrar que una persona sabe sobre algo es cuando es capaz de enseñarlo.
+
+Disponibilizar de **herramientas de colaboración** dónde puedan aflorar esos talentos ocultos es un mecanismo muy sencillo, ágil y rápido.
+
+
+## 2. Aflorar ideas
 
 Uno de los valores en los cuales se debe de apalancar la transformación digital es en el talento interno que reside en la empresa. Ese talento puede estar distribuido por personas que pueden estar en diferentes áreas o realizando procesos totalmente diferentes, es por ello que necesitamos ofrecer herramientas de colaboración para que dichas personas puedan expresar sus ideas, demostrar su talento y, por ende, potenciarlo.
 
@@ -33,13 +43,6 @@ Con el paso del tiempo las empresas tienden a concentrarse en silos en los cuale
 
 Una de las bases de la transformación es facilitar el conocimiento, facilitar el acceso a la información, que la información fluya de forma ágil a través de la empresa, que la gente pueda disponer de la información y completarla, disponiendo de una base de conocimiento pública y accesible para todo el mundo.
 
-## 3. Identificar el talento
-
-Una vez más, el talento y las personas talentosas son las base para que nuestro proceso de transformación digital llegue a buen puerto. ¿Cómo vamos a detectar el talento en la empresa?
-
-La mejor forma de demostrar que una persona sabe sobre algo es cuando es capaz de enseñarlo.
-
-Disponibilizar de **herramientas de colaboración** dónde puedan aflorar esos talentos ocultos es un mecanismo muy sencillo, ágil y rápido.
 
 
 ## 4. Información colaborativa, pública y actualizada
