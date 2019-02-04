@@ -62,3 +62,5 @@ Dentro del mercado tenemos múltiples soluciones para **CMS o Gestor de Contenid
 [PHP]: http://lineadecodigo.com/categoria/php/
 [ExpressionWeb]: https://es.wikipedia.org/wiki/Expression_Web
 [Dreamweaver]: https://es.wikipedia.org/wiki/Adobe_Dreamweaver
+[WordPress]: https://wordpress.org/
+[Blogger]: https://www.blogger.com/
