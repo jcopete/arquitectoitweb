@@ -11,6 +11,14 @@ share: true
 author: victor_cuervo
 ---
 
+Documentación
+* https://docs.docker.com/get-started/
+
+Formación
+* https://training.play-with-docker.com/
+* https://training.play-with-docker.com/alacart/
+
+
 ## ¿Qué es un contenedor?
 
 Una imagen de contenedor es un paquete ligero, autónomo y ejecutable de una pieza de software, el cual incluye todo lo necesario para ser ejecutado: código, runtime, herramientas y librerías del sistema y sus configuraciones.
@@ -261,3 +269,5 @@ docker tag <image> username/repository:tag # Tag <image> for upload to registry
 docker push username/repository:tag # Upload tagged image to registry
 docker run username/repository:tag # Run image from a registry
 ~~~
+
+## Docker Services: docker-compose
