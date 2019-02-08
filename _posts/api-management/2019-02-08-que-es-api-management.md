@@ -66,7 +66,7 @@ El hecho de exponer los servicios de información a terceros y el abrir la posib
 
 Es por ello que es importante las **arquitecturas de API Management** sean más robustas en cuanto a la escalabilidad se refiere, siendo capaces de aguantar picos grandes de carga.
 
-### Lecuras sobre API Management
+### Lecturas sobre API Management
 Algunas lecturas recomendables alrededor del mundo del **API Management** son:
 
 * [5 Rules for API Management][1]
