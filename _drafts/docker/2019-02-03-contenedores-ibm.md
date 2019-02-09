@@ -95,7 +95,70 @@ fc6aa677306c        ubuntu              "top"               9 minutes ago       
 `$ docker container exec -it b3ad2a23fab3 bash`
 Mediante la opción exec y bash podemos inspeccionar el contenido del contenedor.
 
+`-it`
+
 
 Docker se basa en **Linux Kit** que es un proyecto opensource que nos permite ejecutar contenedores en diferentes plataformas (Windows/Mac) ofreciendo un subsistema Linux.
 
 De esta manera Docker nos permite ofrecer la capacidad de los contenedores a muchas plataformas y así extenderse más.
+
+
+## Docker Store
+Es un registro público central de imágenes Docker.
+Todo el mundo puede subir imágenes públicas sobre este registro.
+
+https://store.docker.com/
+
+
+Las imágenes del registro han sido escaneadas por Docker en búsqueda de vulnerabilidades.
+
+Hay **imágenes certificadas** preparadas para el uso empresarial y que han sido testeadas con **Docker Enterprise Edition**.
+
+`$ docker container run --detach --publish 8080:80 --name nginx nginx`
+Ejecuta la imagen de nginx
+
+`-- detach`
+Ejecuta el contenedor en background
+
+`--publish 8080:80`
+Publica el puerto 80 del contenedor en el puerto 8080 de nuestra máquina
+
+`--name nginx`
+Indica el nombre que le ponemos a la imagen para así poder gestionarla. Podríamos poner `--name pepon-nieto`
+
+
+
+
+`docker container inspect nginx`
+Para inspeccionar la imagen de nginx
+
+
+## Eliminar un contenedor
+
+Para poder parar un contenedor deberemos de enviarle el comando `stop`.
+
+`docker container stop [container id]`
+
+
+~~~sh
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                  NAMES
+d31755230016        nginx               "nginx -g 'daemon of…"   12 minutes ago      Up 12 minutes       0.0.0.0:8080->80/tcp   nginx
+84d711ce23e0        ubuntu              "top"                    22 hours ago        Up 22 hours                                optimistic_hodgkin
+fc6aa677306c        ubuntu              "top"                    22 hours ago        Up 22 hours                                agitated_tereshkova
+~~~
+
+
+`$ docker system prune`
+Elimina los contenedores que están parados, volúmenes y redes no utilizadas e imágenes que se hayan quedado colgadas.
+
+~~~sh
+$ docker system prune
+WARNING! This will remove:
+        - all stopped containers
+        - all networks not used by at least one container
+        - all dangling images
+        - all dangling build cache
+Are you sure you want to continue? [y/N]
+~~
+
+## Docker MongoDB
