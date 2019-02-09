@@ -9,6 +9,8 @@ image:
 comments: true
 share: true
 author: juan_manuel_garcia
+redirect_from:
+ - /front-end/layout-adaptable-en-disenos-sensibles/
 ---
 
 # Que tu diseño sea "Sensible" al contexto del usuario
