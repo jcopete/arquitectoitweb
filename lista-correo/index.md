@@ -4,6 +4,8 @@ title: Lista de Correo
 excerpt: "Lista de Correo Arquitecto IT"
 image:
   feature: portada.png
+redirect_from:
+ - /lista-de-correo/
 ---
 
 Todas las novedades de [Arquitecto IT][ArquitectoIT] son publicadas en nuestra lista de correo. Déjanos tus datos y te enviaremos la lista cada vez que tengamos novedades.

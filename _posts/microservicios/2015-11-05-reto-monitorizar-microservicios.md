@@ -9,6 +9,8 @@ image:
 comments: true
 share: true
 author: victor_cuervo
+redirect_from:
+ - /arquitectura/el-reto-de-monitorizar-microservicios/
 ---
 
 Interesante charla de [Adrian Cockcroft][AdrianCockcroft] sobre **El reto de Monitorizar Microservicios (Monitoring Microservices: A challenge!)**

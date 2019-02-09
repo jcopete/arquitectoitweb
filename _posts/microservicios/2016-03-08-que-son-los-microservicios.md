@@ -9,6 +9,8 @@ image:
 comments: true
 share: true
 author: victor_cuervo
+redirect_from:
+ - /arquitectura/microservicios/que-son-los-microservicios/
 ---
 
 Una de las tendencias en Arquitectura de Software de las que más se viene hablando las últimas fechas (desde el 2014) son los **microservicios**. Pero, realmente, *¿qué son los microservicios? ¿Qué tiene que ver los microservicios con el SOA? ¿Qué nuevas capacidades nos ofrecen dentro del ámbito del desarrollo de aplicaciones?*
