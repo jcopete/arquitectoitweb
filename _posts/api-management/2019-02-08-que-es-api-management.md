@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es el API Management?
-excerpt: "Uso del framework Popcorno para poder crear diseños multimedia basados en vídeo para tu web."
+excerpt: "Enfoque sobre el paradigma del API Management que nos ayuda a definir servicios mediante un modelo REST y gestionar estos activos para el negocio."
 categories: api-management
 tags: [api-management,soa,seguridad,analítica,OAuth,OpenID,API Portal]
 image:
