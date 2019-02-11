@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bases de Datos NOSQL
-excerpt: "Bases de Datos NOSQL"
+title: Listado Bases de Datos NOSQL
+excerpt: "Listado Bases de Datos NOSQL"
 categories: mongodb
 tags: [nosql,mongodb]
 image:
