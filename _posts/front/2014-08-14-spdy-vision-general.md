@@ -10,6 +10,8 @@ image:
 comments: true
 share: true
 author: jose_carlos_ferreiro
+redirect_from:
+ - /navegadores/spdy-vision-general/
 ---
 
 # ¿Qué es SPDY?

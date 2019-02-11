@@ -22,7 +22,7 @@ Dentro de este listado encontramos:
 
 * WordPress
 * Blogger
-* [Jekyll][Jekyll]
+* **[Jekyll][Jekyll]** - nos permite la generación de un blog mediante plantillas y contenido en markdown. El proceso de generación de contenidos se realiza con Ruby. [Leer más...][Jekyll]
 
 ## Foros
 En los foros el contenido son las preguntas y respuestas que realizan los usuarios. Es por ello que los [CMS][QueEsCMS] de tipo *foro* están enfocados a ayudar a mantener dichas conversaciones.
@@ -31,8 +31,8 @@ Cómo [CMS][QueEsCMS] de tipo *foro* encontramos:
 
 * Question2Answer
 * bbPress (como plugin de WordPress)
-* phpBB - https://www.phpbb.com/
-* MyBB - https://mybb.com/
+* phpBB
+* MyBB
 
 ## Wikis
 Las wikis son sistemas que permiten que la gestión del contenido sea colaborativa. Es decir, múltiples usuarios estarán contribuyendo sobre el contenido y por lo tanto gestionando las modificaciones y versiones del mismo.
@@ -53,7 +53,7 @@ Los [CMS][QueEsCMS] de *e-Commerce* nos sirven para gestionar los contenidos de 
 En este caso los [CMS][QueEsCMS] están enfocados a ofrecer contenidos de formación o *e-learning*- Son conocimos como **LMS o Learning Management System**. Entre ellos podemos encontrar:
 
 * Moodle
-* Open edX - https://open.edx.org/
+* Open edX
 
 ## Portales
 Son [CMS o Gestores de Contenido][QueEsCMS] de multipropósito en los que disponemos de múltiples funcionalidades para construir nuestra web. Entre los [CMS][QueEsCMS] de tipo *portal* podemos encontrar a:
@@ -61,6 +61,16 @@ Son [CMS o Gestores de Contenido][QueEsCMS] de multipropósito en los que dispon
 * LifeRay
 * Joomla
 * Drupal
+* **Hippo CMS**, es un CMS se apoya en proyectos de código abierto de la **Apache Software Foundation**. Está basado en el estándar de [Java][Java] para repositorios **JCR**.
+* **BloomReach Experience Manager**, la solución de pago del [CMS][QueEsCMS] Hippo.
+* **Sitefinity**, un [Gestor de Contenidos][QueEsCMS] Web de la empresa *Progress*.
+* **Acquia Cloud**, es la solució empresarial en la nube del gestor de [Gestor de Contenidos][QueEsCMS] Drupal.
+* **Magnolia**, es un [CMS][QueEsCMS] basado en [Java][Java] que implementa un repositorio **JCR**.
+* **Adobe Experience Manager**, es un [Gestor de Contenidos][QueEsCMS] Empresarial. Nos permite hacer una gestión de contenidos en el cloud.
+* SiteCore Experience Platform
+* Episerver Digital Experience Cloud
+* SDL Tridion Sites
+* OpenText TeamSite
 
 Un listado interesante de CMS lo puedes encontrar en [Headless CMS][HeadLessCMS].
 
@@ -70,3 +80,4 @@ Un listado interesante de CMS lo puedes encontrar en [Headless CMS][HeadLessCMS]
 [QueEsCMS]: {{site.baseurl}}{% post_url /cms/2019-02-04-que-es-un-cms %}
 [HeadLessCMS]: https://headlesscms.org/
 [Jekyll]: {{site.baseurl}}/jekyll/
+[Java]: {{site.baseurl}}/java/
