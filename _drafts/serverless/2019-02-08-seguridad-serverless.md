@@ -3,15 +3,13 @@ layout: post
 title: Seguridad Serverless
 excerpt: "bla bla bla"
 categories: serverless
-image:
 tags: [serverless]
+image:
   feature: covers/dialogflow.jpg
 comments: true
 share: true
 author: victor_cuervo
 ---
-
-
 
 Securizar una aplicación Serverless es diferente a securizar una aplicación monolítica tradicional.
 
