@@ -54,3 +54,8 @@
   name: NoSQL
   image: covers/nosql.jpg
   description: "Artículos sobre las posibilidades que nos ofrecen las bases de dato no estructuradas o bases de datos NoSQL."
+
+- title: mongodb
+  name: MongoDB
+  image: covers/hoja.jpg
+  description: "Análisis de las funcionalidades y capacidades que nos ofrece la base de datos orientada a documentos JSON MongoDB."
