@@ -13,4 +13,4 @@ share: true
 author: victor_cuervo
 ---
 
-Cómo consumir el contenido de un CMS que esté expuesto por un servicio
+Cómo consumir el contenido de un CMS que esté expuesto por un servicio y ser consumido por Angular
