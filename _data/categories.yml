@@ -49,3 +49,8 @@
   name: CMS
   image: covers/cms.jpg
   description: "Artículos sobre lo que son y cómo podemos aprovechas las capacidades de un CMS o Gestor de Contenidos."
+
+- title: nosql
+  name: NoSQL
+  image: covers/nosql.jpg
+  description: "Artículos sobre las posibilidades que nos ofrecen las bases de dato no estructuradas o bases de datos NoSQL."
