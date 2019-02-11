@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ciclo de Vida del API Management
+title: Alternativas Virtualizar Servicios
 excerpt: "bla bla"
 categories: api-management
 tags: [api-management]
@@ -10,5 +10,3 @@ comments: true
 share: true
 author: victor_cuervo
 ---
-
-# Ciclo de Vida del API Management

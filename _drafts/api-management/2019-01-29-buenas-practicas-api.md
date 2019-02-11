@@ -24,3 +24,9 @@ Principios de Diseño de un API
 Buenas Prácticas
 * Un buen API soporta un conjunto limitado de casos de uso bien definidos
     * Empieza creando un pequeño código de ejemplo que utilice dicho API
+
+
+
+* Cada endpoint debe de tener una descripción clara que detalle lo que se consigue.
+
+* Cada endopoint debe de tener un juego de ejemplos de peticione sy respuestas para que se pueda probar -> adjuntar un Sandbox.
