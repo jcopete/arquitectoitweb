@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DocumentDB con soporte MongoDB
-excerpt: "¿Qué es DocumentDB?"
+excerpt: "Uso de DocumentDB como base de datos NoSQL orientada a documentos y con una total compatibilidad con MongoDB."
 categories: documentdb
 tags: [nosql, aws, replica set,backup]
 image:
