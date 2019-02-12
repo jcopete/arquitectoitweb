@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ¿Qué es SOAP?
+title: ¿Qué es Sentry?
 excerpt: "bla bla"
-categories: api-management
-tags: [api-management, soap]
+categories: monitorizacion
+tags: [sentry]
 image:
   feature: covers/api.png
 comments: true
@@ -11,4 +11,4 @@ share: true
 author: victor_cuervo
 ---
 
-Qué es SOAP
+https://www.paradigmadigital.com/dev/sentry-aliado-la-monitorizacion-aplicaciones-web/
