@@ -23,6 +23,13 @@ AWS DocumentDB es una base de datos NoSQL orientada a documentos completamente g
 
 ## Realizar consulta
 
+## Configurar el Cluster
+
+(Seguir documento para la prueba del cluster)
+(Cómo movernos por los clusters)
+
+https://aws.amazon.com/blogs/aws/new-amazon-documentdb-with-mongodb-compatibility-fast-scalable-and-highly-available/
+
 
 
 [MongoDB]:{{site.url}}/mongodb
