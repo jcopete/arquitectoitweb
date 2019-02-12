@@ -11,4 +11,4 @@ share: true
 author: victor_cuervo
 ---
 
-Qué es SOAP
+https://learning.getpostman.com/docs/postman/mock_servers/intro_to_mock_servers/

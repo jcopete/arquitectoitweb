@@ -11,4 +11,4 @@ share: true
 author: victor_cuervo
 ---
 
-Qué es SOAP
+https://learning.getpostman.com/docs/postman/api_documentation/intro_to_api_documentation/

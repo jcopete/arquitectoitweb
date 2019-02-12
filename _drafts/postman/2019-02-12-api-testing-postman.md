@@ -12,3 +12,4 @@ author: victor_cuervo
 ---
 
 API Testing con Postman
+https://solidgeargroup.com/automatizar-pruebas-api-usando-postman?lang=es
