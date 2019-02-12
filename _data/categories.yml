@@ -64,3 +64,8 @@
   name: Postman
   image: covers/postman.jpg
   description: "Postman es un entorno de desarrollo API First que nos permite gestionar parte del ciclo de vida del API Management."
+
+- title: documentdb
+  name: DocumentDB
+  image: covers/documentdb.jpg
+  description: "DocumentDB nos ofrece una alternativa a MongoDB para disponer de un cluster totalmente gestionado por AWS."
