@@ -3,7 +3,7 @@ layout: post
 title: Buenas Prácticas del API Management
 excerpt: "bla bla"
 categories: api-management
-tags: [api-management]
+tags: [api-management,buenas prácticas]
 image:
   feature: covers/api.png
 comments: true
@@ -24,7 +24,6 @@ Principios de Diseño de un API
 Buenas Prácticas
 * Un buen API soporta un conjunto limitado de casos de uso bien definidos
     * Empieza creando un pequeño código de ejemplo que utilice dicho API
-
 
 
 * Cada endpoint debe de tener una descripción clara que detalle lo que se consigue.
