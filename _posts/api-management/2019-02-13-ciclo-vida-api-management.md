@@ -33,14 +33,14 @@ El API empieza a tomar forma. La idea es que las funcionalidades que se han defi
 
 La idea es que **se definan las entidades** que va a manejar, así como **las operaciones** sobre dichas entidades. Cada uno de los end-point debe de tener una **descripción clara sobre la funcionalidad que aporta**.
 
-Además hay que **crear los juegos de pruebas** sobre las operaciones que hemos definido en las que se incluyan peticiones y respuestas de ejemplo. Para ello nos podemos apoyar en herramientas como **Postman**. Los ejemplos de peticiones y respuestas deben dar respuesta a los casos de uso de la **fase de concepción**.
+Además hay que **crear los juegos de pruebas** sobre las operaciones que hemos definido en las que se incluyan peticiones y respuestas de ejemplo. Para ello nos podemos apoyar en herramientas como [Postman][Postman]. Los ejemplos de peticiones y respuestas deben dar respuesta a los casos de uso de la **fase de concepción**.
 
 Adicionalmente, en esta **fase de diseño** se deberá de adjuntar *mockups o sandbox* para poder probar los APIs por parte de los futuros consumidores, sin la necesidad de que tengamos construido y disponible nuestro API. De esta forma podemos acelerar mucho la creación de las aplicaciones alrededor de nuestro API.
 
 ## Desarrollo
 Una vez tenemos el API diseñado pasamos a la **fase de desarrollo**. Aunque en algunas ocasiones queramos empezar directamente por esta **fase de desarrollo** no debemos de menospreciar las **fases de concepción** y **diseño** ya que un buen trabajo en esas fases hará que el desarrollo sea más ligero.
 
-En la **fase de desarrollo** utilizaremos la definición realizada en los documentos [Swagger][Swagger] para comenzar con la codificación en el lenguaje de programación que utilicemos para la implementación del API.
+En la **fase de desarrollo** utilizaremos la definición realizada en los documentos **Swagger** para comenzar con la codificación en el lenguaje de programación que utilicemos para la implementación del API.
 
 Pueden aparecer algunos detalles técnicos en esta fase que no estén resueltos como pueden ser la gestión de ciertos tipos de datos, la cual se puede quedar en un mero tema de formato de los tipos o puede llegar a ser hasta una carencia funcional de nuestro API.
 
@@ -59,3 +59,5 @@ En algún momento de la vida del API este llegará a su **fase de retirada**. Es
 Llegado el momento de esta **fase de retirada** deberemos de **notificar a todos los clientes que están subscritos al API que este va a ser retirado**. Esta notificación deberá de realizarse con el suficiente tiempo como para que los consumidores del API puedan adaptar sus desarrollos al nuevo API o para que retiren la invocación.
 
 En esta notificación se suele incorporar el *Path* de la nueva versión o de la nueva API, para facilitar a los consumidores su adaptación.
+
+[Postman]: {{site.url}}/postman/que-es-postman/

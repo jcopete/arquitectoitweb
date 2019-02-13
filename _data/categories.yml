@@ -18,7 +18,7 @@
 - title: microservicios
   name: Microservicios
   image: covers/microservicios.png
-  description: "Análisis sobre cómo utilizar el enfoque de microservicios para el desarrollo de aplicaciones, así como los nuevos retos que nos plantea."
+  description: "Análisis sobre cómo utilizar el enfoque de microservicios para el desarrollo de aplicaciones y que nuevos retos nos plantea."
 
 - title: api-management
   name: API Management
@@ -33,17 +33,17 @@
 - title: java
   name: Java
   image: covers/java.png
-  description: "Revisión de todas las capacidades que la plataforma Java y frameworks como Spring nos ofrece en el desarrollo de aplicaciones."
+  description: "Capacidades que la plataforma Java y frameworks como Spring nos ofrece en el desarrollo de aplicaciones."
 
 - title: nginx
   name: Nginx
   image: covers/nginx.png
-  description: "Artículos sobre Nginx que nos ayudan a sacarle un máxima productividad como balanceador de alto rendimiento, servidor web y proxy inverso."
+  description: "Artículos sobre Nginx para sacarle un máxima productividad como balanceador de alto rendimiento, servidor web y proxy inverso."
 
 - title: jekyll
   name: Jekyll
   image: covers/write.jpg
-  description: "Artículos y ejemplos para poder manejar de forma óptima tu servidor de blogs Jekyll."
+  description: "Artículos y ejemplos para poder manejar de forma óptima tu servidor de blogs Jekyll mediante ficheros estáticos."
 
 - title: cms
   name: CMS
@@ -59,3 +59,13 @@
   name: MongoDB
   image: covers/hoja.jpg
   description: "Análisis de las funcionalidades y capacidades que nos ofrece la base de datos orientada a documentos JSON MongoDB."
+
+- title: postman
+  name: Postman
+  image: covers/postman.jpg
+  description: "Postman es un entorno de desarrollo API First que nos permite gestionar parte del ciclo de vida del API Management."
+
+- title: documentdb
+  name: DocumentDB
+  image: covers/documentdb.jpg
+  description: "DocumentDB nos ofrece una alternativa a MongoDB para disponer de un cluster totalmente gestionado por AWS."
