@@ -1,7 +1,7 @@
 ---
 layout: page
 title: API Management
-excerpt: "Análisis de los productos, estándares y patrones sobre el mundo de la gestión del APO Management."
+excerpt: "Análisis de los productos, estándares y patrones sobre el mundo de la gestión del API Management."
 image:
   feature: covers/api.png
 search_omit: true
