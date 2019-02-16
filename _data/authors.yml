@@ -27,3 +27,13 @@ juan_manuel_garcia:
   bio: "Actualmente trabajo como Arquitecto de Software, enfocado a la oferta de servicios en canales no presenciales, como Internet, Dispositivos Móviles y ATMs.
 Con experiencia en este mundo de la tecnología, desde hace 16 años, desarrollando los distintos roles que podemos encontrar en nuestro mundo IT, desde programador Junior hasta Jefe de Proyecto/Arquitecto/Representante comercial.
 Y al igual que casi todo el mundo, trabajando con distintas tecnologías y arquitecturas (desde Cliente-Servidor, hasta arquitecturas multicapa), siempre intentando seguir el día a día en la evolución de la Web."
+
+joaquin_copete:
+  name: Joaquin Copete
+  email: jcopeteg@gmail.com
+  uri: http://jcopete.com
+  bio: "Problem solver with ability to build questions that uncover business needs, and possesses the ability to build and maintain business relationships with decision makers and influencers."
+  avatar: authors/jcopete.png
+  twitter: joCopete
+  linkedin: jcopete
+
